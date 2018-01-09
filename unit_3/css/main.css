@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Sedgwick+Ave+Display);
+
+
+body {
+    background-color: black;
+}
+
+h1, p {
+    color: gold;
+    font-family: 'Sedwick Ave Disply';
+}
